@@ -1,0 +1,5 @@
+streamlit>=1.28.0
+numpy>=1.26.0  # Version with Python 3.12 support
+scipy>=1.12.0
+matplotlib>=3.8.0
+setuptools>=68.0.0  # Required for builds without distutils
